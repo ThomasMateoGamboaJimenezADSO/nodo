@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  padding: 20px;
+  justify-content: center;
+}
+
+.card{
+  background: palegreen;
+}
+
+.info{
+  width: 180px;
+  height: 180px;
+  background: blueviolet;
+  color: aliceblue;
+  border-radius: 15px; 
+  text-align: left;
+  padding: 10px;
+}
+
+/* .address{
+
+}
+
+.geo{
+
+} */
+
+.data{
+  width: 180px;
+  height: 180px;
+  background: blueviolet;
+  color: aliceblue;
+  border-radius: 15px; 
+  text-align: left;
+  padding: 10px;
+}
+
+/* .company{
+
+} */
